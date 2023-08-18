@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+    <symbol id="icon-email">
+        <path
+            fill-rule="evenodd"
+            clip-rule="evenodd"
+            d="M3.75 5.25L3 6V18L3.75 18.75H20.25L21 18V6L20.25 5.25H3.75ZM4.5 7.6955V17.25H19.5V7.69525L11.9999 14.5136L4.5 7.6955ZM18.3099 6.75H5.68986L11.9999 12.4864L18.3099 6.75Z"
+            fill="#080341"
+        ></path>
+    </symbol>
+
+    <symbol id="icon-arrow">
+        <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M12 15.9853L15.182 12.8033L14.1213 11.7427L12.75 13.114L12.75 5.25L11.25 5.25L11.25 13.114L9.8787 11.7427L8.81804 12.8033L12 15.9853ZM12 13.864L12 13.864L12.0001 13.864L12 13.864Z"
+            fill="#080341"></path>
+        <path d="M18 17.25L18 18.75L6 18.75L6 17.25L18 17.25Z" fill="#080341"></path>
+    </symbol>
+</svg>
